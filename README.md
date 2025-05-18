@@ -1,6 +1,8 @@
 # AgentGPT Web3 Automation Framework
 
 <div align="center">
+  <img src="https://agent-gpt.org/logo.png" alt="AgentGPT Logo" width="200"/>
+  
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
 </div>
@@ -120,4 +122,4 @@ For security concerns, please email security@agent-gpt.org or create a security 
 
 <div align="center">
   Made with ❤️ by the AgentGPT Team
-</div> 
+</div>
