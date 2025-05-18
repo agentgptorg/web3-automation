@@ -1,11 +1,8 @@
 # AgentGPT Web3 Automation Framework
 
 <div align="center">
-  
-  [![npm version](https://badge.fury.io/js/agentgpt-web3.svg)](https://badge.fury.io/js/agentgpt-web3)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue.svg)](https://www.typescriptlang.org/)
-  [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/agentgpt)
 </div>
 
 ## 🌟 Overview
