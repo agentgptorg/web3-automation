@@ -1,7 +1,6 @@
 # AgentGPT Web3 Automation Framework
 
 <div align="center">
-  <img src="https://agent-gpt.org/logo.png" alt="AgentGPT Logo" width="200"/>
   
   [![npm version](https://badge.fury.io/js/agentgpt-web3.svg)](https://badge.fury.io/js/agentgpt-web3)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
